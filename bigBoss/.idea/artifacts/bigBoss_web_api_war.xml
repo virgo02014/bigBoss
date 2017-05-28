@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bigBoss-web-api:war">
+    <output-path>$PROJECT_DIR$/bigBoss-web/bigBoss-web-api/target</output-path>
+    <root id="archive" name="bigBoss.war">
+      <element id="artifact" artifact-name="bigBoss-web-api:war exploded" />
+    </root>
+  </artifact>
+</component>

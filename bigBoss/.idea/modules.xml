@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigBoss.iml" filepath="$PROJECT_DIR$/bigBoss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back.iml" filepath="$PROJECT_DIR$/bigBoss-back/bigBoss-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-api/bigBoss-back-api.iml" filepath="$PROJECT_DIR$/bigBoss-back/bigBoss-back-api/bigBoss-back-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-bean/bigBoss-back-bean.iml" filepath="$PROJECT_DIR$/bigBoss-back/bigBoss-back-bean/bigBoss-back-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-dao/bigBoss-back-dao.iml" filepath="$PROJECT_DIR$/bigBoss-back/bigBoss-back-dao/bigBoss-back-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-service/bigBoss-back-service.iml" filepath="$PROJECT_DIR$/bigBoss-back/bigBoss-back-service/bigBoss-back-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-web/bigBoss-web.iml" filepath="$PROJECT_DIR$/bigBoss-web/bigBoss-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-web/bigBoss-web-api/bigBoss-web-api.iml" filepath="$PROJECT_DIR$/bigBoss-web/bigBoss-web-api/bigBoss-web-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigBoss-web/bigBoss-web-common/bigBoss-web-common.iml" filepath="$PROJECT_DIR$/bigBoss-web/bigBoss-web-common/bigBoss-web-common.iml" />
+    </modules>
+  </component>
+</project>

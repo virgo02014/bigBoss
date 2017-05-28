@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-back" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-back/bigBoss-back-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-web/bigBoss-web-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bigBoss-web/bigBoss-web-common" charset="UTF-8" />
+  </component>
+</project>
