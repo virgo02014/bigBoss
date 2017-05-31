@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "vue": "^2.3.3",
+    "vue-route": "^1.5.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Virgo9/bigBoss.git"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.1",
+    "vue-loader": "^12.2.1"
   },
   "keywords": [],
   "author": "",

@@ -31,3 +31,5 @@ target/
 .DS_Store
 Thumbs.db
 
+# web ignore
+bigBoss-web/bigBoss-web-api/src/main/webapp/public/node_modules/
