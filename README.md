@@ -1,6 +1,6 @@
 ## bigBoss
 
-#### [virgo](https://virgo9.github.io/)
+#### [virgo](https://virgo02014.github.io/)
 #### [leo](https://leo2vip.github.io/)
 
 ## 项目运行
@@ -10,7 +10,7 @@
 
 ``` bash
 # clone project
-git clone https://github.com/Virgo9/bigBoss.git
+git clone https://github.com/virgo02014/bigBoss.git
 
 # project configuration
 cd bigBoss-web/bigBoss-web-api/src/main/webapp/public/
